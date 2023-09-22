@@ -61,5 +61,4 @@
   We saved these as val_acc and train_loss in history(simple architecture) and history2(pretrained ResNet34 architecture).<br>
   There are subtle differences between loss changes in simple architecture. If we plot these losses the line would look like straight line.
 
-## Notebook 
-  [Here's the link for the notebook.](https://www.kaggle.com/code/yunusemregokturk/distracted-driver-detection-using-pytorch)
+
